@@ -29,6 +29,11 @@ This is a proof-of-concept based on some ideas I had after reading
 * Commandline, ENV, and config file options for file size and search keywords.
 * Commandline, ENV, and config file options for caching a few past files so they can still rotate when there's no network connection.
 
+# CONTRIBUTING
+
+This repo uses the fork-and-PR model: Fork the repo, make your changes, issue a pull-request against
+master.
+
 # LICENSE
 
 This software can be distributed under the terms of the artistic2 license.
