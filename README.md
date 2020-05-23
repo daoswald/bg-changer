@@ -34,6 +34,11 @@ This is a proof-of-concept based on some ideas I had after reading
 This repo uses the fork-and-PR model: Fork the repo, make your changes, issue a pull-request against
 master.
 
+# FEATURE REQUESTS AND ISSUES
+
+Use [GitHub Issues](https://github.com/daoswald/bg-changer/issues) to report problems or make feature
+requests.
+
 # LICENSE
 
 This software can be distributed under the terms of the artistic2 license.
